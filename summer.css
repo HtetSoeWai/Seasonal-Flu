@@ -1,0 +1,240 @@
+body{
+    margin: 0;
+padding: 0;
+background: #EDE574;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #E1F5C4, #EDE574);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #E1F5C4, #EDE574); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+
+
+}
+.all{
+   
+    padding-top: 5px;
+    
+    }
+h1{
+    margin-top: auto;
+    background: #fc4a1a;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #f7b733, #fc4a1a);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #f7b733, #fc4a1a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+
+padding:20px 0%;
+display: block;
+font-size: larger;
+
+}
+.head a{
+    color: white;
+}
+a{
+text-decoration:none;
+
+}
+#tag{
+    margin-left: 62.5%;
+    margin-top: 0%;   
+}
+.head table{
+    padding-left: 20px;
+}
+.head{
+    font-size: 45px;
+    margin-bottom: 0px;
+    margin-right: 5px;
+margin-left: 5px;
+}
+.main-nav{
+    list-style: none;
+    float: right;
+    margin-top: 6px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 1.5px;
+}
+.main-nav li{
+    display: inline;   
+}
+.main-nav li a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #fc4a1a;  /* fallback for old browsers */
+color: -webkit-linear-gradient(to left, #f7b733, #fc4a1a);  /* Chrome 10-25, Safari 5.1-6 */
+color: linear-gradient(to left, #f7b733, #fc4a1a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    padding: 0px 8.5px;
+    font-family: 'Playball' ;
+    font-weight: bold;
+}
+.main-nav li :hover{
+    color: white;
+}
+.id{
+    text-align: center;
+    margin: 2px 0px;
+    color: blue;   
+}
+.headtwo h2{
+    font-size: 30px;
+    font-family: 'Patua One' ;
+    font-family: 'Caladea' ;
+
+}
+
+.table{
+    margin-right: 19%;
+    margin-left: 19%;
+  
+}
+
+#headingthree{
+    margin-block: auto;
+}
+.hp{
+    background-color:white;
+    box-shadow: 2px 2px 3px gray;
+    border-radius: 10px;
+    padding-left: 150px;
+padding-right: 20px;
+padding-top: 14px;
+
+}
+
+.image{
+    float: left;
+}
+
+#paragraph{
+    margin-bottom: 2px;
+    text-align: justify;
+}
+
+.table :hover{
+    background: #fc4a1a;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #f7b733, #fc4a1a);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #f7b733, #fc4a1a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    color: white;
+}
+.link :hover{
+    font-size: 18px;
+    
+}
+.link{
+    font-weight: bold;
+    text-decoration: none;
+    color:#ffff66;
+}
+.gtable{
+    margin-right: 19%;
+    margin-left: 19%;
+    margin-top: 10px;
+}
+.gimage{
+    float: right;
+
+}
+.gdiv{
+
+   background-color: white;
+    padding: 7px;
+padding-left: 20px;
+text-align: justify;
+padding-right: 127px;
+box-shadow: 2px 2px 3px gray;
+margin-right: 20px;
+border-radius: 10px;
+}
+.gtable :hover{
+    background: #fc4a1a;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #f7b733, #fc4a1a);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #f7b733, #fc4a1a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    color: white;
+}
+#icon{
+    color: white;
+    font-size: 35px;
+}
+#hr{
+
+        margin: 20px 28%;
+}
+
+#i{
+    border-radius: 50%;
+    border: 0.2px solid blue;
+    padding: 8px;
+    font-size: 25px;
+    background-color: blue;
+    color: white;
+}
+
+#p {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color:
+    blue;
+    margin-left: -9px;
+    padding-left: 20px;
+    color:white;
+    border-radius: 2px;
+font-weight: bold;
+}
+.h h2{
+    padding-left: 3%;
+font-size: 30px;
+margin-bottom: 0;
+font-family: 'Roboto', sans-serif;
+color: blue;
+font-weight: bold;
+}
+#fp{
+    margin-left: 3%;
+}
+#co{
+    margin-left: 3%;
+}
+#br{
+    margin-left: 3%;
+}
+#h3{
+    display: inline;
+   margin-bottom: 0;
+}
+.fpp{
+    margin-left: 2%;
+margin-right: 2%;
+}
+.fpp img{
+    float: right;
+    border:2px solid royalblue;
+}
+.ggimg{
+    margin-top: 2em;
+}
+#ga{
+    margin-left: 3%;
+}
+footer{
+    
+    padding: 1.5px 0px;
+    background: #fc4a1a;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #f7b733, #fc4a1a);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #f7b733, #fc4a1a); 
+    color: white;
+    text-align: right;
+    
+}
+footer p{
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+}
+
+
+
+
+
+
